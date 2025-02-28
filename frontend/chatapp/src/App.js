@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { ethers } from "ethers";
 // Import the contract ABI. Ensure that DecentralizedChatABI.json is generated after compiling your Solidity contract.
 import DecentralizedChatABI from "./contracts/DecentralizedChat.ABI.json";
-
+// hi from git ghjfe
 const contractAddress = "0x73e4c2BDE1e9653F670611b7412140466d3a5AD7"; // Replace with your contract's address
 
 function ChatApp() {
